@@ -8,7 +8,7 @@ $ pip install requests
 $ pip2 install mechanize
 $ git clone https://github.com/Rizky-ID/autombf
 $ cd autombf
-$ python2 autombf.py
+$ python2 autombf.pyc
 ```
 # NOTE
 ```
